@@ -1,13 +1,15 @@
 # Leonardo Nogueira
 
-**Software Engineer** building thoughtful, reliable digital products.
+### Software Engineer · Web applications · Digital products
 
-I enjoy turning ideas into useful software and making complex problems easier to understand and solve. I care about clear design, maintainable code, and a practical approach to building products.
+Hi, I’m Leonardo. I turn ideas into useful software, connecting product thinking with hands-on engineering. I enjoy the full journey: understanding a problem, building a solution, and improving it through feedback.
 
-## What you will find here
+## How I approach software
 
-- Projects and experiments as I make them available publicly
-- Notes on software engineering and product development
-- An ongoing record of learning, building, and improving
+- **Start with the problem.** Understand who the product is for and what it needs to solve.
+- **Build for people.** Make the experience clear, practical, and easy to use.
+- **Keep improving.** Favor maintainable solutions and learn from each iteration.
 
-I believe good software starts with understanding the problem and gets better through thoughtful iteration.
+## What’s next
+
+I’m building digital products and will share projects and case studies here as they become ready for public release.
