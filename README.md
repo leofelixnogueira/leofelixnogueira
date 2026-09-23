@@ -1,16 +1,13 @@
-## Hi there 👋
+# Leonardo Nogueira
 
-<!--
-**leofelixnogueira/leofelixnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** building thoughtful, reliable digital products.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into useful software and making complex problems easier to understand and solve. I care about clear design, maintainable code, and a practical approach to building products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you will find here
+
+- Projects and experiments as I make them available publicly
+- Notes on software engineering and product development
+- An ongoing record of learning, building, and improving
+
+I believe good software starts with understanding the problem and gets better through thoughtful iteration.
