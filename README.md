@@ -10,6 +10,14 @@ Hi, I’m Leonardo. I turn ideas into useful software, connecting product thinki
 - **Build for people.** Make the experience clear, practical, and easy to use.
 - **Keep improving.** Favor maintainable solutions and learn from each iteration.
 
-## What’s next
+## Selected work
 
-I’m building digital products and will share projects and case studies here as they become ready for public release.
+These case studies show my approach to product design and engineering. They describe prototypes in development, with reconstructed interfaces and fictional sample data. The underlying repositories remain private.
+
+| Case study | Engineering scope |
+| --- | --- |
+| [Operations Platform](cases/operations-platform.md) | React, TypeScript, Node.js/Express, Firebase Auth, Firestore, Tailwind CSS |
+| [Digital Asset Workspace](cases/digital-asset-workspace.md) | React, TypeScript, Node.js/Express, Firebase, SHA-256, PDF generation |
+| [Social Discovery](cases/social-discovery.md) | React, TypeScript, Firebase/Firestore, Node.js/Express, Motion, geolocation |
+
+Each case explains the problem, interface, construction, and current engineering priorities.
